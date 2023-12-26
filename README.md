@@ -1,9 +1,8 @@
 # Python
-Certainly! Here's the text formatted with proper headings and formatting:
 
 ---
 
-# Repository Description: "Python: The Powerhouse Programming Language"
+## Repository Description: "Python: The Powerhouse Programming Language"
 
 **Welcome to the "Python: The Powerhouse Programming Language" repository!** This repository is dedicated to providing a comprehensive collection of Python code examples, projects, and resources to help you harness the power of Python for various domains and applications.
 
